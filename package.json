@@ -1,0 +1,11 @@
+{
+    "name": "com.crashsight.wx",
+    "displayName": "CrashSightWX",
+    "description": "CrashSight",
+    "version": "0.0.1",
+    "unity": "2020.1",
+    "keywords": [
+        "CrashSight"
+    ],
+    "dependencies": {}
+}
