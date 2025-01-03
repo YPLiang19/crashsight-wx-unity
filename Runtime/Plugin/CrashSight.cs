@@ -4,6 +4,8 @@ using UnityEngine;
 using System.Runtime.InteropServices;
 using System;
 
+
+namespace CrashSightNS {
 public sealed class CrashSight
 {
     [DllImport("__Internal")]
@@ -212,6 +214,8 @@ public sealed class CrashSight
         return CS_JSBacktrace(skipCount, excludeFilter, limitCount);
     }
 
+
+}
 
 }
 
