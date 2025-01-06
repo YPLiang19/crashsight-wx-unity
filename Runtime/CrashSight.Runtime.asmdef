@@ -1,0 +1,8 @@
+{
+    "name": "CrashSight",
+    "references": [],
+    "includePlatforms": [
+        "WebGL",
+        "Editor"
+    ]
+}

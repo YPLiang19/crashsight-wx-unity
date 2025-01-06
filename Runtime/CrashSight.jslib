@@ -405,7 +405,7 @@ mergeInto(LibraryManager.library, {
 
 
     const platformId = 32
-    const sdkVersion = '1.3'
+    const sdkVersion = '1.3.0'
     const errorReportCMD = 930
     const connnetReportCDM = 940
     const coldStartup = 1
